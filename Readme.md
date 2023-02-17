@@ -2,10 +2,10 @@
 + pip install flask
 + pip install flask_cors
 
-## 启动flask
+## 2. 启动flask
 + 执行文件 flaskmain.py
 
-## 示例接口
+## 3. 示例接口
 请求接口：
 POST http://127.0.0.1:9911/test/post
 
