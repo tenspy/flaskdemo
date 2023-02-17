@@ -1,0 +1,16 @@
+/.idea/
+/.git/
+*.iml
+.idea
+*.pyc
+/__pycache__/
+*.log
+/dist/
+/build/
+*.spec
+__pycache__/
+build/
+dist/
+.scrapy
+target/
+.idea/
